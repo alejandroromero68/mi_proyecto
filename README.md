@@ -1,5 +1,7 @@
 # mi_proyecto
 
+## Clonar repositorio con GitHub
+
 Modifico el contenido de este archivo despues de clonar.
 
 ahora, voy a probar alzar con:
